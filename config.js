@@ -1,6 +1,6 @@
 export const Config = {
-	phone_number: "62xxx",
-	owners: ["62xxx"],
+	phone_number: "6287782626608",
+	owners: ["6281953803425"],
 
 	use_pairing_code: true,
 	pairing_wait: 1000 * 6,
